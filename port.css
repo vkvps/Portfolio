@@ -1,0 +1,101 @@
+html{
+    margin: 0px 0px 0px;
+    background-color:blanchedalmond;
+    border: none;
+}
+
+section{
+    margin: 0px;
+    padding: 15px;
+    height: 100vh;
+}
+
+.first{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 72px;
+    text-align: center;
+}
+
+.img1{
+    rotate: -5deg;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    
+    
+
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 65px;
+}
+
+p, li{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px;
+    margin: auto;
+    text-align: center;
+}
+
+.second div{
+    
+    padding: 5px;
+    display: inline;
+    
+}
+
+.second h2{
+    max-width: 350px;
+    display: inline;
+}
+.second img{
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+}
+
+.second p{
+    max-width: 450px;
+    text-align: justify;
+    margin-top: 50px;
+}
+
+.third{
+    background-color: rgba(231, 154, 106, 0.689);
+    align-items: center;
+    padding: 15px 0px;
+    
+}
+
+.third h2{
+    max-width: 450px;
+    display: inline;
+    padding: 30px;
+    margin: auto;
+
+}
+
+.third img{
+    width: 300px;
+    display: inline;
+    margin-left: 200px;
+    margin-top: auto;
+}
+
+ul{
+    margin-top: 50px;
+}
+ li{
+    text-align: left;
+    margin: auto;
+    display: block;
+    max-width: 400px;
+}
